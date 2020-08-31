@@ -1,0 +1,13 @@
+C:\Users\tehbl\OneDrive\C#\08242020\DataSetsTest\bin\Debug\netcoreapp3.1\DataSetsTest.exe
+C:\Users\tehbl\OneDrive\C#\08242020\DataSetsTest\bin\Debug\netcoreapp3.1\DataSetsTest.deps.json
+C:\Users\tehbl\OneDrive\C#\08242020\DataSetsTest\bin\Debug\netcoreapp3.1\DataSetsTest.runtimeconfig.json
+C:\Users\tehbl\OneDrive\C#\08242020\DataSetsTest\bin\Debug\netcoreapp3.1\DataSetsTest.runtimeconfig.dev.json
+C:\Users\tehbl\OneDrive\C#\08242020\DataSetsTest\bin\Debug\netcoreapp3.1\DataSetsTest.dll
+C:\Users\tehbl\OneDrive\C#\08242020\DataSetsTest\bin\Debug\netcoreapp3.1\DataSetsTest.pdb
+C:\Users\tehbl\OneDrive\C#\08242020\DataSetsTest\obj\Debug\netcoreapp3.1\DataSetsTest.csprojAssemblyReference.cache
+C:\Users\tehbl\OneDrive\C#\08242020\DataSetsTest\obj\Debug\netcoreapp3.1\DataSetsTest.AssemblyInfoInputs.cache
+C:\Users\tehbl\OneDrive\C#\08242020\DataSetsTest\obj\Debug\netcoreapp3.1\DataSetsTest.AssemblyInfo.cs
+C:\Users\tehbl\OneDrive\C#\08242020\DataSetsTest\obj\Debug\netcoreapp3.1\DataSetsTest.csproj.CoreCompileInputs.cache
+C:\Users\tehbl\OneDrive\C#\08242020\DataSetsTest\obj\Debug\netcoreapp3.1\DataSetsTest.dll
+C:\Users\tehbl\OneDrive\C#\08242020\DataSetsTest\obj\Debug\netcoreapp3.1\DataSetsTest.pdb
+C:\Users\tehbl\OneDrive\C#\08242020\DataSetsTest\obj\Debug\netcoreapp3.1\DataSetsTest.genruntimeconfig.cache
